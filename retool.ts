@@ -41,8 +41,7 @@ const RETOOL_ACCOUNTS: RetoolAccount[] = [
   {
     domain_name: "edubaa.retool.com",
     x_xsrf_token: "a7bafe53-5b28-4554-b9d8-8c37895a63d6",
-    accessToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ4c3JmVG9rZW4iOiJhN2JhZmU1My01YjI4LTQ1NTQtYjlkOC04YzM3ODk1YTYzZDYiLCJ2ZXJzaW9uIjoiMS4yIiwiaWF0IjoxNzUxMjg1MzM3fQ.UDh3aMd9z5n19AtHvvg0bfS9P9QLROBvzc1LFzOtROM
-",
+    accessToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ4c3JmVG9rZW4iOiJhN2JhZmU1My01YjI4LTQ1NTQtYjlkOC04YzM3ODk1YTYzZDYiLCJ2ZXJzaW9uIjoiMS4yIiwiaWF0IjoxNzUxMjg1MzM3fQ.UDh3aMd9z5n19AtHvvg0bfS9P9QLROBvzc1LFzOtROM",
     is_valid: true,
     last_used: 0,
     error_count: 0,
